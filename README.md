@@ -57,7 +57,6 @@
 <li>
 <p>Relationships: Equal(==), not equal(!=), greater than(&gt;), less than(&lt;), greater than or equal(&gt;=), less than or equal(&lt;=).</p>
 </li>
-<li></li>
 </ul>
 <h2 id="operands">Operands</h2>
 <p>In computers, an operand is the part of a computer instruction that specifies data that is to be operating on or manipulated and, by extension, the data itself. Basically, a computer instruction describes an operation (add, subtract, and so forth) and the operand or operands on which the operation is to be performed.</p>
@@ -144,31 +143,3 @@ Gupta, S. (n.d.). Basics of Operators Tutorials &amp; Notes | Basic Programming.
 </body>
 
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
