@@ -128,6 +128,33 @@
 <ul>
 <li><strong>Pseudocode</strong>: The pseudocode is an informal way to do a program very close to the language we will use in the future. It is like a fake language, but in our language.</li>
 </ul>
+<h2 id="problem-solving-methods">Problem solving methods</h2>
+<ul>
+<li>
+<p><strong>Problem analysis:</strong> Is the process of breaking down the problem into its components. The problem should be fully understood.</p>
+</li>
+<li>
+<p><strong>Algorithm design:</strong> Design a set of instructions to solve a problem or sub-problem, look for the desired properties and use a finite amount of time and data. Instructions should not be ambiguous.</p>
+</li>
+<li>
+<p><strong>Coding:</strong> Starting with a pseudocode, translate each line into the code you are currently using.</p>
+</li>
+<li>
+<p><strong>Compilation and execution:</strong> Call the function and give it some sample sets of data. Use this to see if the code returns the derised results.</p>
+</li>
+<li>
+<p><strong>Check:</strong> You can write tests to see if the actual output is equal to the desired output. You can also use <code>console.log</code> after each variable to check if the values and code are behaving as expected before moving on.</p>
+</li>
+<li>
+<p><strong>Debugging</strong>: Is the process of identifying and removing errors from computer hardware or software.</p>
+</li>
+<li>
+<p><strong>Maintenance</strong>: Is the constant cleaning and update of the code or data of computer hardware or software.</p>
+</li>
+<li>
+<p><strong>Documentation</strong>: Is searching for answers trough papers or forums about a problem or a topic you want to learn about.</p>
+</li>
+</ul>
 <h2 id="references">References</h2>
 <p>-What is a variable in computer programming? (2021). Retrieved January 31, 2021, from <a href="http://Launchschool.com">Launchschool.com</a> website: <a href="https://launchschool.com/books/ruby/read/variables">https://launchschool.com/books/ruby/read/variables</a></p>
 <p>-TechTarget Contributor. (2017). operand. Retrieved January 31, 2021, from <a href="http://WhatIs.com">WhatIs.com</a> website: <a href="https://whatis.techtarget.com/definition/operand">https://whatis.techtarget.com/definition/operand</a></p>
