@@ -1,7 +1,7 @@
-Here goes the basic commands of git
+The basic commands of git
 -create and delete directories
 -navigate 
 -compare 
 -find files, folders and inside files
 -create and edit text files
--get the state of the computer
+-get the state of the compute
