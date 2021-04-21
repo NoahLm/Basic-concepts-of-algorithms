@@ -13,3 +13,15 @@ git clone *repository URL* | for cloning an specific repository from git
 ### Basic workflow command to stage and commit
 git add *name* | With this command you add the changes you made to the staging area. 
 git commit -m "*any message*" | With this command you save the changes in git's memory.
+
+### Push to a remote repository 
+push git  *origin main* | With this command you push your information to a git hub repository.
+
+### Branches
+git branch *name* | With this command you create a branch where you can work in parallel.
+git checkout *name*| Change branch
+git merge *name* | Fusion branches and make a commit 
+git branch -d *name* | Delete the branch
+
+### Git flow
+git flow is a sort of library that includes abbreviated commands for facilitating the usage of git.
