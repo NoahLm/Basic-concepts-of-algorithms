@@ -8,9 +8,14 @@ git config --global user.email/name " ": With this command you can start configu
 ### Starting a project from zero or cloning an existing repository
 Follow the next steps...
 git init | for initializing git
+If you want to... :
 git clone *repository URL* | for cloning an specific repository from git
+or
+git remote add *name* *URL* | for connecting to an existing repository
 
 ### Basic workflow command to stage and commit
+git pull *origin main" | This command is for extracting the code of the repository. 
+git status | This command is for checking which changes are staged or not
 git add *name* | With this command you add the changes you made to the staging area. 
 git commit -m "*any message*" | With this command you save the changes in git's memory.
 
@@ -22,6 +27,5 @@ git branch *name* | With this command you create a branch where you can work in 
 git checkout *name*| Change branch
 git merge *name* | Fusion branches and make a commit 
 git branch -d *name* | Delete the branch
-
 ### Git flow
 git flow is a sort of library that includes abbreviated commands for facilitating the usage of git.
