@@ -32,8 +32,15 @@ find . -name *.format* | For searching files with an specific extension.
 find . -not *name* | For searching files without an specific word. 
 
 ### Create and edit text files
+
 touch *name* : This command just creates any kind of file you tell the computer to do.
 nano *name* : This command opens nano's text editor, where you can create or edit any kind of plain text file.
 vim *name* : Similar as nano, but another editor.
+code *name*: Similar with vim and nano, But if you have Visual Studio Code, it opens a window of it with the file you want to create or modify.
+
 ### Get the state of the computer:
-git status : inside the folder this command tells you if there is any kind of change inside the files.
+Computer hardware:
+echo | You can configure some scripts using this command for checking the state of your computer's hardware and show it in the terminal using the previous command.
+
+Git changes:
+git status | Inside the folder this command tells you if there is any kind of change inside the files.
