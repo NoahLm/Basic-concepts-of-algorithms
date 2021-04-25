@@ -7,6 +7,7 @@ In this little summary you will find some of the most fundamental commands for m
 ```rmdir *name*``` : With this command you can delete a folder. However, it needs to be empty to be deleted.
  
 ### Switch to another folder
+
 ```pwd``` | For checking your present position
 ```cd *name*``` | For changing to an specific folder.
 ```cd ~/*name*``` | With this command you can move trough your computer folders. Just that it considers your home location.
@@ -32,7 +33,8 @@ After the "find" if you write a "." is inside your present folder, a "/" for you
 ```find . -not *name*``` | For searching files without an specific word. 
 
 ### Create and edit text files
-
+| Command | Useness |
+| ------ | ------ |
 ```touch *name*``` | This command just creates any kind of file you tell the computer to do.
 ```nano *name*``` | This command opens nano's text editor, where you can create or edit any kind of plain text file.
 ```vim *name*``` | Similar as nano, but another editor.
@@ -40,7 +42,11 @@ After the "find" if you write a "." is inside your present folder, a "/" for you
 
 ### Get the state of the computer:
 Computer hardware:
-```echo``` | You can configure some scripts using this command for checking the state of your computer's hardware and show it in the terminal using the previous command.
+| Command | Useness |
+| ------ | ------ |
+```echo``` | You can configure some scripts using this command for checking the state of your computer's hardware and show it in the terminal using the previous command. |
 
 Git changes:
-```git status``` | Inside the folder this command tells you if there is any kind of change inside the files.
+| Command | Useness |
+| ------ | ------ |
+| ```git status``` | Inside the folder this command tells you if there is any kind of change inside the files. |
