@@ -28,8 +28,8 @@ In this little summary you will find some of the most fundamental commands for m
 -For a general view:
 | Command | Useness |
 | ------ | ------ |
-```ls``` | This command shows you the files and folders of your present direction.
-```ls -a``` | Same as the last one but it also shows you hidden folders.
+|```ls``` | This command shows you the files and folders of your present direction. |
+|```ls -a``` | Same as the last one but it also shows you hidden folders. |
 
 -For specific things:
 | Command | Useness | 
