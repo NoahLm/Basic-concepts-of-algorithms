@@ -26,6 +26,8 @@ In this little summary you will find some of the most fundamental commands for m
 ```ls -a``` | Same as the last one but it also shows you hidden folders.
 
 -For specific things:
+| Command | Useness |
+| ------ | ------ |
 ```find``` | This command is for finding specific files. 
 After the "find" if you write a "." is inside your present folder, a "/" for your whole system and a "~" for you home folder.
 ```find . *name*``` | For searching files with the name you wrote.
